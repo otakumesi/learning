@@ -1,0 +1,16 @@
+body {
+  background-image: url('images/background.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+  background-size: cover;
+  background-color: white;
+}
+
+li a {
+  color: green;
+}
+
+li a:visited {
+  color: green;
+}
